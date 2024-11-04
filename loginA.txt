@@ -1,2 +1,3 @@
 May A code chuc nang login
 May B update noi dung
+B lam chuc nang gio hang
